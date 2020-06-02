@@ -25,7 +25,7 @@
 - https://www.slideshare.net/BOAZbigdata/8-boaz-05
 - https://lovit.github.io/nlp/2019/04/30/textrank/
 - https://www.slideshare.net/BOAZbigdata/presentations/3
-- 
+- [Scikit-Learn의 문서 전처리 기능](https://datascienceschool.net/view-notebook/3e7aadbf88ed4f0d87a76f9ddc925d69/)
 - 
 - 
 - 
