@@ -25,7 +25,7 @@
 - [TextRank 를 이용한 키워드 추출과 핵심 문장 추출 (구현과 실험)](https://lovit.github.io/nlp/2019/04/30/textrank/)
 - [https://www.slideshare.net/BOAZbigdata/presentations/3](https://www.slideshare.net/BOAZbigdata/presentations/3)
 - [Scikit-Learn의 문서 전처리 기능](https://datascienceschool.net/view-notebook/3e7aadbf88ed4f0d87a76f9ddc925d69/)
-- 
+- [판다스 날짜 변환](https://cnpnote.tistory.com/entry/PYTHON-%ED%83%80%EC%9E%84-%EC%8A%A4%ED%83%AC%ED%94%84-%EC%97%B4%EC%9D%84-%EB%B3%84%EB%8F%84%EC%9D%98-%EB%82%A0%EC%A7%9C-%EB%B0%8F-%EC%8B%9C%EA%B0%84-%EC%97%B4%EB%A1%9C-%EB%82%98%EB%88%84%EA%B8%B0)
 - 
 - 
 - 
